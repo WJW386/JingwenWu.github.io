@@ -1,2 +1,1 @@
-theme:jekyll-theme-cayman
-title:Welcome to Jingwen Wu's homepage!
+###个人信息
